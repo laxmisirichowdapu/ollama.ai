@@ -35,7 +35,7 @@ while True:
     )
     print("bot:",response["message"]["content"])'''
 
-import ollama
+'''import ollama
 print("i am ai chatbot with q&a")
 print("Type exit to terminate\n")
 responses=[]
@@ -55,6 +55,4 @@ while True:
     )
     responses.append(response)
     print("bot:",response["message"]["content"])
-print(responses)
-
-
+print(responses)'''
